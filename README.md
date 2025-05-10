@@ -47,7 +47,7 @@
 
 ## ✨ Featured Projects
 
-<p align="center">https://web-kelas-phi.vercel.app/</p>
+<p align="center">COMING SOON.../</p>
 
 ---
 
